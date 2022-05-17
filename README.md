@@ -1,4 +1,4 @@
-# MyCalculator JS 
+# MyCalculator 
 
 
 
